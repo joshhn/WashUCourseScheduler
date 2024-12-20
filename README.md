@@ -12,7 +12,7 @@
   </a>
 </p> -->
 
-### Team members: Duy Huynh, Tram Vu, Sam Gil
+#### Note: Cloned from [CSE437 project](https://github.com/CSE437s/FL24-project-group-9) at WashU
 
 ## Getting Started
 
